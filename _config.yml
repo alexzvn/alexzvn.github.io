@@ -1,6 +1,6 @@
-title: Your awesome title
+title: Alexz'vn logger
 author:
-  name: GitHub User
+  name: Alex Doan
   email: your-email@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
   Write an awesome description for your new site here. You can edit this
@@ -12,12 +12,12 @@ show_excerpts: false # set to true to show excerpts on the homepage
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
-  date_format: "%b %-d, %Y"
+  date_format: "%d/%m/%Y"
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    #twitter: jekyllrb
+    github:  alexzvn
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
